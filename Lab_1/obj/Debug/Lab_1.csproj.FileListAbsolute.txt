@@ -1,0 +1,8 @@
+C:\One\ProjSimVer0.1\Lab_1\Lab_1\bin\Debug\Lab_1.exe.config
+C:\One\ProjSimVer0.1\Lab_1\Lab_1\bin\Debug\Lab_1.exe
+C:\One\ProjSimVer0.1\Lab_1\Lab_1\bin\Debug\Lab_1.pdb
+C:\One\ProjSimVer0.1\Lab_1\Lab_1\obj\Debug\Lab_1.csproj.AssemblyReference.cache
+C:\One\ProjSimVer0.1\Lab_1\Lab_1\obj\Debug\Lab_1.csproj.SuggestedBindingRedirects.cache
+C:\One\ProjSimVer0.1\Lab_1\Lab_1\obj\Debug\Lab_1.csproj.CoreCompileInputs.cache
+C:\One\ProjSimVer0.1\Lab_1\Lab_1\obj\Debug\Lab_1.exe
+C:\One\ProjSimVer0.1\Lab_1\Lab_1\obj\Debug\Lab_1.pdb
